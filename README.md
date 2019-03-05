@@ -11,7 +11,7 @@ CharacterRegisterSchematic.zip
     CharacterRegister.dch     DipTrace Schematic File
     CharacterRegister.sch     SCH Schematic File
     
-CharacterRegister.ino         Arduino Sketch for programming EEPROM
+CharacterRegisterEEPROM.ino         Arduino Sketch for programming EEPROM
 ArduinoProgrammer.txt         Information about programming EEPROM
 
 InstructionSet.xlsx           Includes two new instructions used to program "Hello, World!"
