@@ -1,0 +1,2 @@
+The Arduino sketch is designed for use with Ben Eater's Arduino EEPROM programmer.  
+For detailed instructions, see https://eater.net/8bit/output.
